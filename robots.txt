@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uwodozooj.narrativeviz.com/sitemap.xml
